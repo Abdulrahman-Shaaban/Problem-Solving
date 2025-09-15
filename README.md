@@ -1,28 +1,29 @@
-Problem-Solving Repository
-Welcome to my Problem-Solving repository! This is a space where I showcase my coding skills through practical projects and algorithmic solutions. Currently, it features a Rock, Paper, Scissors game built in C++, with more exciting projects to come! 🚀
-Rock, Paper, Scissors Game
-A fun console-based game where you compete against the computer. Choose the number of rounds and enjoy colorful feedback for each round: 🟩 Win, 🟥 Lose, 🟨 Draw.
-Features
+# 🧠 Problem-Solving Repository
 
-Player vs. Computer gameplay
-Customizable number of rounds
-Colorful console output for results
-Clean code using enums and randomization for fair gameplay
+Welcome to my **Problem-Solving Repository** – a space where I showcase my coding skills through practical projects and algorithmic solutions.
 
-How to Run
+---
 
-Clone the Repository:git clone https://github.com/Abdulrahman-Shaaban/Problem-Solving
+## 🎮 Rock, Paper, Scissors – C++ Console Game
 
+This is a fun and interactive **Rock, Paper, Scissors** game built using **C++**. You play against the computer in a customizable number of rounds with real-time feedback and colorful console output.
 
-Compile the Code:g++ RockPaperScissors.cpp -o game
+---
 
+### ✨ Features
 
-Run the Game:./game
+- 🧑‍🤝‍🧑 **Player vs. Computer Gameplay**
+- 🔢 **Choose Your Number of Rounds**
+- 🎨 **Color-Coded Round Results**
+  - 🟩 Win  
+  - 🟥 Lose  
+  - 🟨 Draw  
 
+---
 
-Follow the on-screen prompts to play!
+### 🛠 How It Works
 
-Future Plans
-This repository will grow with more problem-solving projects, including solutions to LeetCode, Codeforces, and other coding challenges. Stay tuned for updates! 📈
-Contributions
-Feel free to explore, fork, or contribute! Suggestions, feedback, or pull requests are always welcome. Let's learn and code together! 💻
+1. Choose how many rounds you want to play.
+2. Make your move (Rock, Paper, or Scissors).
+3. Watch the result and track your score with colorful feedback after each round.
+4. Final score is displayed at the end!
